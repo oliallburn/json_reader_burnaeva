@@ -8,5 +8,4 @@ object SparkSessionWrapper {
 
     SparkSession.builder().master("local").appName("allburn").getOrCreate()
   }
-
 }
