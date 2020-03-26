@@ -1,15 +1,3 @@
 # json_reader_burnaeva
 
-*add project short description*
-
-## Accessing the library
-
-*How to access the code*
-
-## Documentation
-
-*A link to the documentation*
-
-## How to contribute
-
-*How others can contribute to the project*
+Распределенное приложение для чтения json-файлов
