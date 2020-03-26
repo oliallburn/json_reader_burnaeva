@@ -11,6 +11,7 @@ class WineObjmodel(spark: SparkSession) extends WineTrait {
       .map(row => {
         decode[Wine](row)
       })
+      .collect()
       .foreach {
         println
     }
